@@ -41,7 +41,7 @@
             </dependency>
             <dependency>
                 <groupId>com.github.SemanticWebBuilder</groupId>
-                <artifactId>SWBXMRPCServer</artifactId>
+                <artifactId>SWBXMLRPCServer</artifactId>
                 <version>master-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -83,7 +83,7 @@
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>SWBXMRPCServer</artifactId>
+                <artifactId>SWBXMLRPCServer</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
@@ -133,7 +133,7 @@
             </dependency>
             <dependency>
                 <groupId>com.github.SemanticWebBuilder</groupId>
-                <artifactId>SWBXMRPCServer</artifactId>
+                <artifactId>SWBXMLRPCServer</artifactId>
                 <version>${branchtag}-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -183,7 +183,7 @@
             </dependency>
             <dependency>
                 <groupId>com.github.SemanticWebBuilder</groupId>
-                <artifactId>SWBXMRPCServer</artifactId>
+                <artifactId>SWBXMLRPCServer</artifactId>
                 <version>${releasetag}</version>
             </dependency>
             <dependency>
